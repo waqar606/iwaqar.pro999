@@ -25,7 +25,7 @@ const projects = [
     image: "/projects/pizza.png",
     category: ["Web App", "Frontend"],
     technologies: ["React", "Tailwind CSS"],
-    demoLink: "https://my-pizza-sooty.vercel.app/",
+    demoLink: "https://pizzalo.vercel.app/",
     githubLink: "https://github.com/waqar606/MyPizza",
   },
   {
