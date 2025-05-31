@@ -301,7 +301,8 @@ export default function Contact() {
                   </div>
                 </motion.div>
 
-                <motion.div
+                <motion.a
+                  href="https://linkedin.com/in/waqar-ahmed-dev999"
                   className="flex items-center space-x-4 text-gray-700 dark:text-gray-300"
                   whileHover={{ x: 5 }}
                 >
@@ -312,7 +313,7 @@ export default function Contact() {
                     <p className="text-sm font-medium">Linkdin Profile</p>
                     <p className="text-sm">Waqar Ahmed</p>
                   </div>
-                </motion.div>
+                </motion.a>
               </div>
             </div>
           </AnimatedSection>
