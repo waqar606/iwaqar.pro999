@@ -61,17 +61,17 @@ const projects = [
     demoLink: "https://course-app-vj3i.vercel.app/",
     githubLink: "https://github.com/waqar606/Course_App",
   },
-   {
-    id: 6,
-    title: "Dementia Testing",
-    description:
-      "A full-stack Django and React JS web app for dementia testing, where patients can upload their MRI scans for analysis. An integrated AI model processes the images to provide diagnostic results, which doctors can access along with patient details for further evaluation and care.",
-    image: "/projects/fyp.png",
-    category: ["Web App", "Full Stack"],
-    technologies: ["HTML","CSS","JS","React", "Django", "MySql",],
-    demoLink: "#",
-    githubLink: "https://github.com/waqar606/FYP_Web",
-  },
+  //  {
+  //   id: 6,
+  //   title: "Dementia Testing",
+  //   description:
+  //     "A full-stack Django and React JS web app for dementia testing, where patients can upload their MRI scans for analysis. An integrated AI model processes the images to provide diagnostic results, which doctors can access along with patient details for further evaluation and care.",
+  //   image: "/projects/fyp.png",
+  //   category: ["Web App", "Full Stack"],
+  //   technologies: ["HTML","CSS","JS","React", "Django", "MySql",],
+  //   demoLink: "#",
+  //   githubLink: "https://github.com/waqar606/FYP_Web",
+  // },
   
 ]
 
