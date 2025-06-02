@@ -34,9 +34,9 @@ export default function HeroAbout() {
     // Create a link element
     const link = document.createElement("a")
     // Set the href to the path of your resume in the public folder
-    link.href = "/Waqar-Ahmed-Resume.pdf"
+    link.href = "/Waqar-Ahmed_Resume.pdf"
     // Set the download attribute with the desired filename
-    link.download = "Waqar-Ahmed-Resume.pdf"
+    link.download = "Waqar-Ahmed_Resume.pdf"
     // Append to body
     document.body.appendChild(link)
     // Trigger the click
