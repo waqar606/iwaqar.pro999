@@ -54,7 +54,7 @@ export default function HeroAbout() {
       {/* Particle Background */}
       <ParticleBackground />
 
-      <div className="container mx-auto max-w-6xl z-10 relative">
+      <div className="container mx-auto max-w-6xl mt-10 z-10 relative">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Photo Section */}
           <motion.div
