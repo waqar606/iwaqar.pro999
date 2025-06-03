@@ -35,7 +35,7 @@ const projects = [
       "A modern YouTube clone featuring a sleek, fully responsive UI that delivers a smooth video streaming experience. Users can play and pause videos, explore related content, and search seamlessly in an intuitive, visually engaging environment.",
     image: "/projects/Ytube.png",
     category: ["Web App", "Frontend"],
-    technologies: ["React", "NodeJs","Express","MongoDb", "Tailwind CSS"],
+    technologies: ["React", "Tailwind CSS", "Rapid API"],
     demoLink: "https://youtube-clone-amber-three.vercel.app/",
     githubLink: "https://github.com/waqar606/MyTube",
   },
