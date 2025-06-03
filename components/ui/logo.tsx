@@ -108,7 +108,7 @@ export default function Logo() {
           whileHover={{ scale: 1.1, color: "#10b981" }}
           transition={{ type: "spring", stiffness: 400 }}
         >
-          W
+          
         </motion.span>
 
         {/* Code brackets with animation */}
@@ -118,7 +118,7 @@ export default function Logo() {
           </motion.span>
 
           {/* Animated dots (like code) */}
-          <div className="relative w-2 h-5 mx-0.5 flex justify-center items-center">
+          <div className="relative w-2 h-5 mx-0.1 flex justify-center items-center">
             {[0, 1, 2].map((i) => (
               <motion.div
                 key={i}
@@ -131,7 +131,7 @@ export default function Logo() {
           </div>
 
           <motion.span className="text-xl font-bold text-emerald-400" custom={1} variants={bracketVariants}>
-            &gt;
+          <span style={{ fontFamily: '"Edu QLD Hand", cursive' }} className="text-xl font-bold text-emerald-400">Waqar</span><span style={{ fontFamily: '"Edu QLD Hand", cursive' }} className="text-xl font-bold text-white"> Ahmed</span> &gt;
           </motion.span>
         </div>
 
@@ -142,7 +142,7 @@ export default function Logo() {
           whileHover={{ scale: 1.1, color: "#a7f3d0" }}
           transition={{ type: "spring", stiffness: 400 }}
         >
-          A
+          
         </motion.span>
 
         {/* Decorative circuit lines */}

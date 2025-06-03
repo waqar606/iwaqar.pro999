@@ -10,6 +10,9 @@ const config: Config = {
   ],
   theme: {
   	extend: {
+		 fontFamily: {
+			edu: ['"Edu QLD Hand"', 'cursive'], // 👈 your custom font
+		},
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
