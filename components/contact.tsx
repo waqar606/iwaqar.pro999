@@ -302,7 +302,8 @@ export default function Contact() {
                 </motion.div>
 
                 <motion.a
-                  href="https://linkedin.com/in/waqar-ahmed-dev999"
+                  onClick={() => window.open("https://linkedin.com/in/waqar-ahmed-dev999", "_blank")}
+                  // href="https://linkedin.com/in/waqar-ahmed-dev999"
                   className="flex items-center space-x-4 text-gray-700 dark:text-gray-300"
                   whileHover={{ x: 5 }}
                 >
