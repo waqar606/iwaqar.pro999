@@ -97,9 +97,7 @@ export default function HeroAbout() {
             <h2 className="text-2xl md:text-3xl font-bold text-gray-200 mb-6">Creative Developer & Designer</h2>
 
             <p className="text-gray-300 mb-8 max-w-xl mx-auto md:mx-0">
-              I craft engaging digital experiences through clean code and thoughtful design. With 1+ years of
-              experience, I specialize in building modern, responsive websites and full-stack applications using the
-              MERN stack, combining functionality with aesthetic appeal.
+             I craft engaging digital experiences through clean, efficient code and thoughtful, user-centric design. With over a year of hands-on experience, I specialize in building responsive websites and full-stack applications using the MERN stack—blending functionality with visual appeal. I thrive on turning complex problems into intuitive solutions and enjoy collaborating in dynamic teams to bring impactful digital products to life.
             </p>
 
             <div className="grid grid-cols-2 gap-4 mb-8 max-w-md mx-auto md:mx-0">
