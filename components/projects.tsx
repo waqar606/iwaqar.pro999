@@ -20,13 +20,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Pizza Shop",
-    description: "A responsive pizza shop website built with React JS, offering an engaging menu, easy ordering, and a smooth user experience.",
+    title: "Fresh Mart",
+    description: "FreshMart is a modern, visually captivating e-commerce platform for fresh grocery delivery, built with React JS and Tailwind CSS. It offers seamless shopping with dynamic category browsing, price filtering, and smooth cart management—all in a fully responsive UI. Designed for speed, clarity, and user delight, FreshMart blends performance with elegant functionality.",
     image: "/projects/pizza.png",
     category: ["Web App", "Frontend"],
     technologies: ["React", "Tailwind CSS"],
-    demoLink: "https://pizzalo.vercel.app/",
-    githubLink: "https://github.com/waqar606/MyPizza",
+    demoLink: "https://fresh-mart-zeta.vercel.app/",
+    githubLink: "https://github.com/waqar606/FreshMart",
   },
   {
     id: 3,
