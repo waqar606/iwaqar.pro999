@@ -61,6 +61,18 @@ const projects = [
     demoLink: "https://course-app-vj3i.vercel.app/",
     githubLink: "https://github.com/waqar606/Course_App",
   },
+  {
+    id: 6,
+    title: "DeepSeek Clone",
+    description:
+      "DeepSeek AI Clone is a full-featured MERN stack application that replicates the core features of the DeepSeek platform. It includes user authentication, real-time AI-powered responses, and user history management. Built with MongoDB, Express.js, React, and Node.js, it offers a seamless and intelligent user experience.",
+    image: "/projects/fyp.png",
+    category: ["Web App", "Mern Stack"],
+    technologies: ["React", "NodeJs","Express","MongoDb","Stripe", "Tailwind CSS"],
+    demoLink: "https://github.com/waqar606/Deepseek_Clone",
+    githubLink: "https://github.com/waqar606/Deepseek_Clone",
+  },
+
   //  {
   //   id: 6,
   //   title: "Dementia Testing",
