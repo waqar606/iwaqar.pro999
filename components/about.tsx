@@ -80,9 +80,7 @@ export default function About() {
               Creative Developer with a Passion for Design
             </h3>
             <p className="text-gray-700 dark:text-gray-300">
-              I'm a passionate developer with over 5 years of experience creating beautiful, functional websites and
-              applications. My journey in tech began with a curiosity about how things work on the web, which led me to
-              pursue a career in development.
+              I craft engaging digital experiences through clean, efficient code and thoughtful, user-centric design. With over a year of hands-on experience, I specialize in building responsive websites and full-stack applications using the MERN stack—blending functionality with visual appeal. I thrive on turning complex problems into intuitive solutions and enjoy collaborating in dynamic teams to bring impactful digital products to life.
             </p>
             <p className="text-gray-700 dark:text-gray-300">
               I specialize in front-end development with React, but I'm also comfortable working with back-end
