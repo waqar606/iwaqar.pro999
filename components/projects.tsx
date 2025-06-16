@@ -66,7 +66,7 @@ const projects = [
     title: "DeepSeek Clone",
     description:
       "DeepSeek AI Clone is a full-featured MERN stack application that replicates the core features of the DeepSeek platform. It includes user authentication, real-time AI-powered responses, and user history management. Built with MongoDB, Express.js, React, and Node.js, it offers a seamless and intelligent user experience.",
-    image: "/projects/fyp.png",
+    image: "/projects/Clone.png",
     category: ["Web App", "Mern Stack"],
     technologies: ["React", "NodeJs","Express","MongoDb","Stripe", "Tailwind CSS"],
     demoLink: "https://github.com/waqar606/Deepseek_Clone",
