@@ -21,8 +21,8 @@ const projects = [
   {
     id: 2,
     title: "Fresh Mart",
-    description: "FreshMart is a modern, visually captivating e-commerce platform for fresh grocery delivery, built with React JS and Tailwind CSS. It offers seamless shopping with dynamic category browsing, price filtering, and smooth cart management—all in a fully responsive UI. Designed for speed, clarity, and user delight, FreshMart blends performance with elegant functionality.",
-    image: "/projects/pizza.png",
+    description: "FreshMart is a modern, visually captivating e-commerce platform for fresh grocery delivery, built with React JS and Tailwind CSS. It offers seamless shopping with dynamic category browsing, price filtering, and smooth cart management—all in a fully responsive UI.",
+    image: "/projects/freshmart.png",
     category: ["Web App", "Frontend"],
     technologies: ["React", "Tailwind CSS"],
     demoLink: "https://fresh-mart-zeta.vercel.app/",
